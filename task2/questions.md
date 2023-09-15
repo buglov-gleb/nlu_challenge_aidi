@@ -13,7 +13,10 @@
 2. Russian word order is highly flexible, complicating the writing of the grammar rules. To address this issue, I suggest incorporating a "shuffle" operation into the grammar using curly brackets `{}`, indicating that elements within the brackets can be shuffled. By doing so, we can accommodate different word orders and reduce the chances of missing the recognition of certain utterances.
 
 3. Adjectives in Russian have gender agreement, requiring us to choose the appropriate endings accordingly. Consider the following examples:
+
 *play me something classic*
+
 *play me some classic music*
+
 
 In Russian, the first example should use the neutral gender "классическ***ое***", while the second example requires the feminine gender "классическ***ая***" (as "music" is feminine). The challenge here lies in considering different word forms based on the sentence structure in which they are used.
