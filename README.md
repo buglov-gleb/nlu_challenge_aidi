@@ -21,7 +21,6 @@ To see sample utterances new grammar can produce, navigate to [this page](https:
 
 You can also use `python3 test.py` to make sure grammar matches every presented utterance.
 
-### Task 2.3
-### Task 2.4
+### Task 2.3, 2.4
 
 For my thoughts on questions 2.3 & 2.4, please visit [this page](https://github.com/buglov-gleb/nlu_challenge_aidi/blob/main/task2/ru_utterances.txt).
